@@ -66,7 +66,7 @@ jobs:
 
 ```sh
 $ git add .
-$ git commit -m "add CI.yml and update README.md"
+$ git commit -m "lab04 done"
 $ git push origin main
 ```
 В Github Actions все прошло.
